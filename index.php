@@ -7,9 +7,6 @@
 	<title>Formulario</title>
 </head>
 <body>
- <header>
- 	
- </header>
  <section>
  	 <form action="cad.php" method="get">
 		<label for="nome"> Nome </label>
